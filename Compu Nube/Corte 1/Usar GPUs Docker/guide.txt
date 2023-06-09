@@ -1,0 +1,30 @@
+# Remember to have Docker installed...
+
+# Install Docker-GPU with installation guide https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html
+
+distribution=$(. /etc/os-release;echo $ID$VERSION_ID) \
+   && curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add - \
+   && curl -s -L https://nvidia.github.io/nvidia-docker/$distribution/nvidia-docker.list | sudo tee /etc/apt/sources.list.d/nvidia-docker.list
+   
+sudo apt-get update
+
+sudo apt-get install -y nvidia-docker2
+
+sudo systemctl restart docker
+
+# Once nvidia-docker is installed, test it with the following command
+
+sudo docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
+
+# the argument --gpus all is needed to use the GPU
+
+# To use the custom Dockerfile and files created use the following commands:
+
+# Pull image 
+sudo docker pull nvidia/cuda:11.0-base-ubuntu20.04
+# Build image
+sudo docker build -t mikes96/aigpu .
+# Using GPU support 
+sudo docker run -it --rm --gpus all --name ai_gpu  mikes96/aigpu 
+
+

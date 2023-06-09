@@ -1,0 +1,17 @@
+Confronting the risks of artificial intelligence
+https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/confronting-the-risks-of-artificial-intelligence
+
+THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUTERISATION?
+https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
+
+El futuro del trabajo en América Latina y el Caribe
+https://www.iadb.org/es/trabajo-y-pensiones/el-futuro-del-trabajo-en-america-latina-y-el-caribe
+
+The Future of Jobs 2020. World Economic Forum. 
+https://www.weforum.org/reports/the-future-of-jobs-report-2020
+
+Herramienta para visualizar la extracción de características en CNN
+https://microscope.openai.com/models
+
+Herramienta para simular redes multicapas sencillas
+https://playground.tensorflow.org/

@@ -1,0 +1,53 @@
+El hallazgo de hace 30 años en el que se basa toda la inteligencia artificial actual
+
+https://www.technologyreview.es/s/9600/el-hallazgo-de-hace-30-anos-en-el-que-se-basa-toda-la-inteligencia-artificial-actual
+
+A Brief History of Neural Nets and Deep Learning
+
+https://www.skynettoday.com/overviews/neural-net-history
+
+Dot CSV: Canal de divulgación sobre temas de IA
+
+https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg
+
+Two Minute Papers: Canal donde se muestran desarrollos recientes en ciencias de la computación, particularmente en IA
+
+https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg
+
+Sitio donde se pueden ver los últimos desarrollos en IA. 
+
+https://paperswithcode.com/
+
+Sección del sitio "papers with code" para conocer el SOTA (State Of The Art) en varios problemas de referencia en IA
+
+https://paperswithcode.com/sota
+
+Sitio con modelos preentrenados basados en Transformers para aplicaciones en PLN. Actualmente tiene modelos para otras aplicaciones en visión computacional y IA generativa
+
+https://huggingface.co/
+
+Kaggle is the world's largest data science community with powerful tools and resources to help you achieve your data science goals.
+
+https://www.kaggle.com/
+
+OpenAI conducts fundamental, long-term research toward the creation of safe AGI.
+
+https://openai.com/research/
+
+10 Breakthrough Technologies 2021
+https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/
+
+10 Breakthrough Technologies 2022
+
+https://www.technologyreview.com/2022/02/23/1045416/10-breakthrough-technologies-2022/
+
+10 Breakthrough Technologies 2023
+
+https://www.technologyreview.com/2023/01/09/1066394/10-breakthrough-technologies-2023/
+
+2023 Gartner Emerging Technologies and Trends Impact Radar
+https://www.gartner.com/en/articles/4-emerging-technologies-you-need-to-know-about 
+
+What’s New in Artificial Intelligence from the 2022 Gartner Hype Cycle
+https://www.gartner.com/en/articles/what-s-new-in-artificial-intelligence-from-the-2022-gartner-hype-cycle
+Última modificación: sábado, 4 de febrero de 2023, 21:01

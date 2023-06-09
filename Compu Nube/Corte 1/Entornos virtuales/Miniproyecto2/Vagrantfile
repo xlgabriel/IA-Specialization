@@ -1,0 +1,18 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+  if Vagrant.has_plugin? "vagrant-vbguest"
+    config.vbguest.no_install  = true
+    config.vbguest.auto_update = false
+    config.vbguest.no_remote   = true
+  end
+
+  config.vm.define :servidorMiniproyecto2 do |servidorMiniproyecto2|
+    servidorMiniproyecto2.vm.box = "bento/ubuntu-22.04"
+    servidorMiniproyecto2.vm.network :private_network, ip: "192.168.100.11"
+    servidorMiniproyecto2.vm.hostname = "servidorMiniproyecto2"
+    #servidorMiniproyecto2.vm.provision "shell", path: "script.sh"
+  end
+end
